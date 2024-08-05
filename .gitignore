@@ -1,0 +1,5 @@
+.vscode/
+crm-app/.venv/
+crm-app/.env
+crm-frontend/node_modules/
+crm-app/app/__pycache__/
